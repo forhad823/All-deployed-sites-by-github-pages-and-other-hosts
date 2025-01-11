@@ -1,5 +1,8 @@
 # All-deployed-sites-by-github-pages-and-other-hosts
 
+* Bangladesh 2.0 ( assignment-1-mil-1-Phero-web)
+   https://forhad823.github.io/assignment-1-milestone-1/
+   
 * Portfolio-practice-1:
   https://forhad823.github.io/portfolio-practice-1/
 
