@@ -1,5 +1,8 @@
 # All-deployed-sites-by-github-pages-and-other-hosts
 
+* G3-architect-website
+  https://forhad823.github.io/g3-architect-website/
+  
 * Bangladesh 2.0 ( assignment-1-mil-1-Phero-web)
    https://forhad823.github.io/assignment-1-milestone-1/
    
