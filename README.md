@@ -1,4 +1,6 @@
 # All-deployed-sites-by-github-pages-and-other-hosts
+* Assignment-2-b11-Kids-School
+  https://forhad823.github.io/My-Assignment-2-B-11-Kids-School/
 
 * G3-architect-website
   https://forhad823.github.io/g3-architect-website/
