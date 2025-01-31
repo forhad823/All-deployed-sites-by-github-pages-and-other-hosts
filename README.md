@@ -1,4 +1,8 @@
 # All-deployed-sites-by-github-pages-and-other-hosts
+
+* Assignment-3-Nature's-Platter
+  https://forhad823.github.io/Assignment-3-category-2/
+  
 * Assignment-2-b11-Kids-School
   https://forhad823.github.io/My-Assignment-2-B-11-Kids-School/
 
